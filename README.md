@@ -1,9 +1,9 @@
-#📚 Library Management System
-##🏛️ Overview
---The Library Management System (LMS) is a database project designed to manage books, borrowers, and transactions across multiple library branches efficiently. Built using SQL, this system ensures seamless record-keeping, optimized borrowing processes, and efficient data retrieval.
+# 📚 Library Management System
+## 🏛️ Overview
+The Library Management System (LMS) is a database project designed to manage books, borrowers, and transactions across multiple library branches efficiently. Built using SQL, this system ensures seamless record-keeping, optimized borrowing processes, and efficient data retrieval.
 
-🔹 Features
-📖 Book & Borrower Management: Maintain records of books, authors, borrowers, and library branches.
+## 🔹 Features
+--📖 Book & Borrower Management: Maintain records of books, authors, borrowers, and library branches.
 🔗 Database Relationships: Proper primary & foreign key constraints for data integrity.
 🔄 CASCADE Operations: Ensure referential integrity with ON UPDATE CASCADE & ON DELETE CASCADE.
 📊 Advanced Query Execution: Retrieve insights on book availability, borrower activity, and branch statistics.
